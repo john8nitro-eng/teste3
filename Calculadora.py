@@ -1,5 +1,5 @@
 def calculator():
-    """Teste de calculatora teste that performs basic arithmetic operations.  """
+    """Teste   de calculatora teste that performs basic arithmetic operations.  """
     print("Simple Calculator")
     print("-" * 30)
     
